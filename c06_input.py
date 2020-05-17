@@ -1,0 +1,6 @@
+Type_something=input('Type Something: ')
+print(Type_something)
+Type_something=input('Type something: ')
+print(Type_something)
+Type_something=input('Type something: ')
+print(Type_something)
